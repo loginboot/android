@@ -1,16 +1,11 @@
 package com.adt.lyods.activity;
 
-import com.adt.lyods.model.R;
-import com.adt.lyods.model.R.id;
-import com.adt.lyods.model.R.layout;
-import com.adt.lyods.model.R.menu;
-
-import android.app.Activity;
+import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class MainActivity extends Activity
+public class MainActivity extends ActionBarActivity
 {
 
 	@Override
